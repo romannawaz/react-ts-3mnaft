@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+button {
+  margin-left: 5px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+}
+
+.error_message {
+  padding-left: 16px;
+  color: #d8000c;
+}
+
+.card {
+  margin-left: 32px;
+  margin-right: 32px;
+  background-color: #fafafa;
+  border-radius: 12px;
+  border: 1px solid #c8c8c8;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
